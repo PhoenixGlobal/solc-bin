@@ -1,0 +1,62 @@
+{
+  "builds": [
+    {
+      "path": "soljson-v0.4.26+commit.ecbb1517.js",
+      "version": "0.4.26",
+      "build": "commit.ecbb1517",
+      "longVersion": "0.4.26+commit.ecbb1517",
+      "keccak256": "0xcaf15358e14479a546fee13924c8d3601f0c864aee5b8886779cba209f37520b",
+      "urls": [
+        "bzzr://c94f8a000cf2ce62949d01e491321cff209be085a738319de6ba76165e460410"
+      ]
+    },
+    {
+      "path": "soljson-v0.5.17+commit.40d7687e.js",
+      "version": "0.5.17",
+      "build": "commit.40d7687e",
+      "longVersion": "0.5.17+commit.40d7687e",
+      "keccak256": "0x8ad6017061eb917f1b694b6f0c0634f58b89c7e87c3105bae1337fdf5c7e0f1a",
+      "urls": [
+        "bzzr://3e26ff76d5f196ef4e7aaafdf6907c0de9bdcd385011c2b5e4cac6e0ebec573a"
+      ]
+    },
+    {
+      "path": "soljson-v0.6.12+commit.8946da9f.js",
+      "version": "0.6.12",
+      "build": "commit.8946da9f",
+      "longVersion": "0.6.12+commit.8946da9f",
+      "keccak256": "0xd334658750ee1cae4ae89b4536cdaf4051fa193715ff8262a4e96c499d5640aa",
+      "urls": [
+        "bzzr://fa37587906c6e53cd343f13b181d08f16b4fcf264c16db77539b769428fac0bf"
+      ]
+    },
+    {
+      "path": "soljson-v0.7.6+commit.6cb3c108.js",
+      "version": "0.7.6",
+      "build": "commit.6cb3c108",
+      "longVersion": "0.7.6+commit.6cb3c108",
+      "keccak256": "0x5d4c2b330038128c3979dccbf0f463a0966110db6794cd1b269c51e52f75e81e",
+      "urls": [
+        "bzzr://0ccad54341686c02c2d42cf91ae985c9c8b1e639d163252fd35c601c05d68697"
+      ]
+    },
+    {
+      "path": "soljson-v0.8.6+commit.915f2fcc.js",
+      "version": "0.8.6",
+      "build": "commit.915f2fcc",
+      "longVersion": "0.8.6+commit.915f2fcc",
+      "keccak256": "0x365557a4cbb8b1a2756ffb29031362c736971b67b901ae40010c2f1c204f8816",
+      "urls": [
+        "bzzr://364087a9e8253d5e807d4d5e0fc6ee9870385df583abc998028ddcca3041bb74"
+      ]
+    }
+  ],
+  "releases": {
+    "0.8.6": "soljson-v0.8.6+commit.915f2fcc.js",
+    "0.7.6": "soljson-v0.7.6+commit.6cb3c108.js",
+    "0.6.12": "soljson-v0.6.12+commit.8946da9f.js",
+    "0.5.17": "soljson-v0.5.17+commit.40d7687e.js",
+    "0.4.26": "soljson-v0.4.26+commit.ecbb1517.js"
+  },
+  "latestRelease": "0.8.6"
+}
